@@ -1,0 +1,4 @@
+Django==1.10.4
+django-google-charts==0.1.1
+django-pyowm==0.1.0
+pyowm==2.5.0
